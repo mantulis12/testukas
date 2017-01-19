@@ -16,5 +16,5 @@ Class User
     }
 }
 $user = new User(15);
-echo $user->getUserId;
+echo $user->getUserId();
 ?>
